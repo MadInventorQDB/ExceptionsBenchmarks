@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains the source code and benchmarks referenced in the article ["Exceptional Programming in C#"](insert-link-to-article), which explores best practices for using exceptions in C# and alternative patterns to improve performance and code clarity.
+This repository contains the source code and benchmarks referenced in the article ["Exceptional Programming in C#"](Exceptional_Programming_in_CSharp.md), which explores best practices for using exceptions in C# and alternative patterns to improve performance and code clarity.
 
 ### Key Topics Covered:
 - **Flow Control Best Practices**: Why using exceptions for normal flow control should be avoided.
@@ -57,6 +57,3 @@ Here’s a sample of the results comparing different exception-handling techniqu
 | ResultPatternWithSuccess                  |    197.8 ns |   0.52 ns |   0.49 ns | 0.74    |
 | ResultPatternWithFailure                  |    197.7 ns |   0.41 ns |   0.37 ns | 0.74    |
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

@@ -128,7 +128,7 @@ namespace ExceptionsBenchmarks
         }
 
         [Benchmark]
-        public void TryWithOutExceptionNestedFunctionHandling()
+        public void TryWithoutExceptionNestedFunctionHandling()
         {
             for (int i = 0; i < Iterations; i++)
             {
